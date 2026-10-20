@@ -1,4 +1,5 @@
 beautifulsoup4
+bleak
 black
 fake_useragent
 flake8
