@@ -5,6 +5,10 @@ RSSI (Received Signal Strength Indicator) is measured in dBm: values closer to
 zero mean a stronger signal and, usually, a closer device (about -40 dBm is a
 few centimetres away; below -90 dBm is the edge of the range).
 
+Reference:
+    https://en.wikipedia.org/wiki/Bluetooth_Low_Energy
+    https://en.wikipedia.org/wiki/Received_signal_strength_indicator
+
 Requirements:
     pip install bleak
 
